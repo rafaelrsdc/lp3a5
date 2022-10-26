@@ -1,6 +1,5 @@
 package forkjoinquicksort;
 
-
 //GitHub: HenriqueIni
 //https://www.blogcyberini.com/
 import java.util.concurrent.ForkJoinPool;

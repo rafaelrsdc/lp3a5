@@ -5,9 +5,9 @@
 
 > [Problema Programação Funcional](https://github.com/rafaelswt/lp3a5/blob/main/src/javacollections/Main.java)"
 
-> [Problema Programação Optionals](https://github.com/rafaelswt/lp3a5/blob/main/src/optional/Main.java)"
+> [Problema Optional](https://github.com/rafaelswt/lp3a5/blob/main/src/optional/Main.java)"
 
-> [Problema Programação Exceptions]https://github.com/rafaelswt/lp3a5/blob/main/src/Exception/Main.java"
+> [Problema Exceptions](https://github.com/rafaelswt/lp3a5/blob/main/src/Exception/Main.java)"
 
 
 

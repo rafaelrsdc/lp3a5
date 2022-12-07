@@ -7,7 +7,7 @@
 
 > [Problema Optional](https://github.com/rafaelswt/lp3a5/blob/main/src/optional/Main.java)
 
-> [Problema Exceptions](https://github.com/rafaelswt/lp3a5/Exception1/Main.java)
+> [Problema Exceptions](https://github.com/rafaelswt/lp3a5/Exception1/)
 
 > [Problema Gilded Rose](https://github.com/rafaelswt/lp3a5/tree/main/gildedrose)
 
